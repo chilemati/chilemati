@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @chilemati
-- 👀 I’m interested in Android app design
-- 🌱 I’m currently learning kotlin
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m a full stack web developer 
+- 🌱 I’m also an instructor at Elitepath 
+- 💞️ I started this career since 2022
 
 <!---
 chilemati/chilemati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
